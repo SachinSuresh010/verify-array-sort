@@ -1,10 +1,9 @@
 {
   "name": "verify-array-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to verify if the array is sorted in ascending or descending order",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SachinSuresh010/verify-array-sort.git"
