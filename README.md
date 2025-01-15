@@ -7,15 +7,15 @@ This Node.js package provides a function to check if an array is sorted in ascen
 ```bash
 npm install verify-array-sort
 ```
-## Usage
+# Usage
 
-# Import using require
+## Import using require
 
 ```bash
 const isSorted = require('verify-array-sort');
 ```
 
-# Import using import
+## Import using import
 ```bash
 import isSorted from 'verify-array-sort'
 ```
@@ -42,7 +42,7 @@ const unsortedNumbers = [1, 3, 2, 4];
 console.log(isSorted(unsortedNumbers, 'ascending')); // Output: false 
 ```
 
-# API
+## API
 
 **isSorted(arr, order)**
 
@@ -54,16 +54,16 @@ Returns:
 - true if the array is sorted according to the specified order.
 - false otherwise
 
-# Supported Data Types
+## Supported Data Types
 
 - Numbers
 - Strings
 - Dates
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
-# License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
